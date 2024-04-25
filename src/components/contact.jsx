@@ -158,14 +158,15 @@ export const Contact = (props) => {
         </div>
       </div>
       <div id="footer">
-        {/* <div className="container text-center">
-          <p>
+        <div className="container text-center">
+          {/* <p>
             &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
             <a href="http://www.templatewire.com" rel="nofollow">
               TemplateWire
             </a>
-          </p>
-        </div> */}
+          </p> */}
+          <iframe className="youtube" src="https://www.youtube.com/embed/wbM3NTmpehc?si=ClbO7z5mUSgX1jNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
       </div>
     </div>
   );

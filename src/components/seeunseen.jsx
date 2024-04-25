@@ -30,7 +30,7 @@ export const SeeUnseen = (props) => {
                     <div className="col-xs-12">
                       <ul>
                         {props.data
-                          ? props.data.Why.map((d, i) => (
+                          ? props.data.Why2.map((d, i) => (
                               <li key={`${d}-${i}`}>{d}</li>
                             ))
                           : "loading"}
@@ -44,7 +44,7 @@ export const SeeUnseen = (props) => {
                     <div className="col-xs-12">
                       <ul>
                         {props.data
-                          ? props.data.Why.map((d, i) => (
+                          ? props.data.Why3.map((d, i) => (
                               <li key={`${d}-${i}`}>{d}</li>
                             ))
                           : "loading"}
@@ -58,7 +58,7 @@ export const SeeUnseen = (props) => {
                     <div className="col-xs-12">
                       <ul>
                         {props.data
-                          ? props.data.Why.map((d, i) => (
+                          ? props.data.Why4.map((d, i) => (
                               <li key={`${d}-${i}`}>{d}</li>
                             ))
                           : "loading"}
@@ -72,7 +72,7 @@ export const SeeUnseen = (props) => {
                     <div className="col-xs-12">
                       <ul>
                         {props.data
-                          ? props.data.Why.map((d, i) => (
+                          ? props.data.Why5.map((d, i) => (
                               <li key={`${d}-${i}`}>{d}</li>
                             ))
                           : "loading"}
