@@ -1,0 +1,156 @@
+{
+  "Header": {
+    "title": "Gallagher & Voxel",
+    "paragraph": "Gallagher and Voxel have partnered to bring you a site intelligence platform with 24/7 risk monitoring that drives real-time insights into safety risks & near misses."
+  },
+  "SeeUnseen": {
+    "paragraph": "",
+    "Why": [
+      "Client-Centered Innovation",
+      "Cutting-Edge Solutions",
+      "Proven Expertise",
+      "Transparent Collaboration"
+    ]
+  },
+  "MeasureAndManage": {
+    "paragraph": "",
+    "Why": [
+      "Safety Scoring",
+      "Trend Reports",
+      "Highlighted Incidents"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Hunched",
+      "link": "https://www.hunchedapp.com/",
+      "smallImage": "img/portfolio/hunched.png"
+    },
+    {
+      "title": "HaulComm",
+      "link": "https://main.d3ot3ozq04076g.amplifyapp.com/",
+      "smallImage": "img/portfolio/haulcomm.png"
+    },
+    {
+      "title": "American Caging, Inc",
+      "smallImage": "img/portfolio/american-caging.png",
+      "inProgress": true
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-mobile-screen-button",
+      "name": "Custom Mobile Applications",
+      "text": "Bespoke Mobile Experiences: Develop personalized applications for a variety of needs and sectors, focusing on user-centric design, seamless functionality, and integration with the latest mobile technologies."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Operational Management Systems",
+      "text": "Efficient Workflow Automation: Create systems that optimize operations across industries, providing solutions for real-time monitoring, process automation, and resource management to enhance productivity."
+    },
+    {
+      "icon": "fa fa-computer",
+      "name": "Web Application Development",
+      "text": "Interactive Web Solutions: Craft web applications that connect users with essential services, facilitate community engagement, and streamline user interactions with intuitive interfaces and robust backend support."
+    },
+    {
+      "icon": "fa fa-chart-pie",
+      "name": "Data Analysis and Reporting",
+      "text": "Advanced Data Insight Tools: Equip businesses with powerful data analysis and visualization tools, enabling them to make data-driven decisions and gain strategic insights across functions."
+    },
+    {
+      "icon": "fa fa-satellite-dish",
+      "name": "Internet of Things (IoT) Integration",
+      "text": "Smart Integration Solutions: Implement IoT technologies to develop interconnected environments for smart automation, energy management, and enhanced data collection in various sectors."
+    },
+    {
+      "icon": "fa fa-store",
+      "name": "E-commerce and Online Marketplaces",
+      "text": "Customized Digital Marketplaces: Build comprehensive e-commerce platforms that cater to diverse business models, focusing on user experience, secure transactions, and scalable architecture for business growth."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1010 SW 2nd Ave Unit PH06, Miami, FL 33130 ",
+    "phone": "+1 (412) 480-5238",
+    "email": "steve@omicron.studio",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
