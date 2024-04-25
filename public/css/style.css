@@ -240,7 +240,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/background-1.jpg) center center no-repeat;
+  background: url(../img/image4.png) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -254,8 +254,8 @@ a:focus,
 
 .intro h1 {
   font-family: "Raleway", sans-serif;
-  color: #fff;
-  font-size: 42px;
+  color: #333;
+  font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
   margin-top: 0;
@@ -268,8 +268,8 @@ a:focus,
 }
 
 .intro p {
-  color: #fff;
-  font-size: 22px;
+  color: #222;
+  font-size: 18px;
   font-weight: 300;
   line-height: 30px;
   margin: 0 auto;
@@ -277,7 +277,7 @@ a:focus,
 }
 
 header .intro-text {
-  padding-top: 250px;
+  padding-top: 100px;
   padding-bottom: 200px;
   text-align: center;
 }

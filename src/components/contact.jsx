@@ -25,17 +25,17 @@ export const Contact = (props) => {
     setEmailBtnText("Sending...")
         
     emailjs
-      .sendForm("service_awmgttj", "template_zpqudoq", e.target, "MPiRpLGuEpqCyhsrb")
+      .sendForm("service_pngq465", "template_mej9g9o", e.target, "rdkBXexgZ0MEA6RKy")
       .then(
         (result) => {
           console.log(result.text);
           clearState();
-          setEmailBtnText("Send Message");
+          setEmailBtnText("Submitted!");
           alert("Request sent successfully! Talk to you soon!");
         },
         (error) => {
           console.log(error.text);
-          setEmailBtnText("Send Message");
+          setEmailBtnText("Try Again");
           alert("Failed to submit request. Please try again.");
         }
       );
