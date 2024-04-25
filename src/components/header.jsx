@@ -9,7 +9,10 @@ export const Header = (props) => {
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
                 <h1>
-                  {props.data ? props.data.title : "Loading"}
+                  {/* {props.data ? props.data.title : "Loading"} */}
+                  <div style={{display: 'flex', justifyContent: 'center'}}>
+                    <img style={{width: '400px'}} src="img/image1.png" className="img-responsive" alt="" />
+                  </div>
                   <span></span>
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
